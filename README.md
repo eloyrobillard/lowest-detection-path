@@ -2,4 +2,6 @@
 
 ## Getting Started
 
-Run `cargo run input0.map` where input0.map is the path to the input file.
+Run `cargo run {path}` where {path} is the path to the input file.
+
+Example: `cargo run input0.map`
